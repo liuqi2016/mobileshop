@@ -1,2 +1,2 @@
 # mobileshop
-thinkphp5手机商城
+yii2手机商城
